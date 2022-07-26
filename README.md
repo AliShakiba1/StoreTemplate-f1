@@ -11,12 +11,15 @@ Technologies used :
 
 3- [Jquery](https://jquery.com/) { little amount }
 
-<img src="/AliShakiba1/StoreTemplate-f1/blob/master/assets/img/h2.jpg?raw=true" alt="h2.jpg">
 
-![](https://github.com/AliShakiba1/StoreTemplate-f1/raw/master/assets/img/h4.jpg
- | width=100)
+
 The work done in this project : 
 
       Creating a header that changes every few seconds.
+![](https://github.com/AliShakiba1/StoreTemplate-f1/raw/master/assets/redm.me/head.png)
+
+     Making a slide bar by Owl Carousel 2
+![](https://github.com/AliShakiba1/StoreTemplate-f1/raw/master/assets/redm.me/main.png)
+      
       
      
