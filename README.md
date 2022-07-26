@@ -13,6 +13,8 @@ Technologies used :
 
 <img src="/AliShakiba1/StoreTemplate-f1/blob/master/assets/img/h2.jpg?raw=true" alt="h2.jpg">
 
+![](https://github.com/AliShakiba1/StoreTemplate-f1/raw/master/assets/img/h4.jpg
+ | width=100)
 The work done in this project : 
 
       Creating a header that changes every few seconds.
