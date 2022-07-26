@@ -15,11 +15,12 @@ Technologies used :
 
 The work done in this project : 
 
-      Creating a header that changes every few seconds.
+      Creating a header that changes every few seconds : 
 ![](https://github.com/AliShakiba1/StoreTemplate-f1/raw/master/assets/redm.me/head.png)
 
-     Making a slide bar by Owl Carousel 2
+     Making a slide bar by Owl Carousel 2 : 
 ![](https://github.com/AliShakiba1/StoreTemplate-f1/raw/master/assets/redm.me/main.png)
       
+      Animated button
       
      
