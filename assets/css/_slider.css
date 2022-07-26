@@ -1,0 +1,42 @@
+
+
+
+header section .slides .item {
+  position: relative;
+  display: none;
+}
+
+header section .slides .active {
+  display: block;
+  animation-name: animate__fadeIn;
+}
+
+header section .slides img {
+  width: 100%;
+  /* position: relative; */
+}
+
+header section .slides .item span {
+  position: absolute;
+  top: 50%;
+  right: 10%;
+  color: #222;
+  font-size: 1.5rem;
+}
+
+header section .s_btn {
+  position: absolute;
+  left: 10%;
+  top: 50px;
+  z-index: 1;
+}
+
+header section .s_btn i {
+  color: #fff;
+  cursor: pointer;
+}
+
+
+header section .s_btn i:hover {
+  color: rgba(255, 255, 255, 0.4);
+}

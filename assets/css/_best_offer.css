@@ -1,0 +1,92 @@
+
+.best-offer {
+  padding: 20px;
+}
+
+.best-offer .card {
+  text-align: center;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  margin: 0px 10px;
+}
+
+.card .best-offer_txt {
+  background-color: #e74c3c;
+  color: white;
+  padding: 8px 20px;
+  display: inline-block;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+.card .body .img-sec {
+  padding: 17px;
+  text-align: center;
+}
+
+.card .body .img-sec img {
+  width: 100%;
+}
+
+.card .body .title-sec {
+  padding: 30px 50px;
+}
+
+.card .body .title-sec .price-sec {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  padding: 30px 5px;
+}
+
+.card .body .title-sec .price-sec div {
+  margin-left: 60px;
+  font-size: 1.1rem;
+  color: #444;
+}
+
+.card .body .title-sec .price-sec .off {
+  color: white;
+  background-color: #e74c3c;
+  padding: 5px 20px;
+  border-radius: 25px;
+}
+
+.card .body .title-sec .name_p {
+  font-size: 1.2rem;
+  color: #444;
+  border-bottom: 1px solid black;
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+
+.card .body .title-sec .time {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  width: 354px;
+  padding-right: 73px;
+}
+
+.card .body .title-sec .time .txt {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.card .body .title-sec .time .remaining {
+  font-weight: bold;
+  color: #666;
+  font-size: 1.5em;
+}
+
+.offer {
+  text-align: center;
+  padding: 0px 5px;
+}
+
+.offer img {
+  border-radius: 5px;
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.2);
+  width: 80%;
+}

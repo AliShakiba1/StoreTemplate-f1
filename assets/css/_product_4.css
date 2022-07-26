@@ -1,0 +1,88 @@
+/* main section home-product-section  */
+
+main .home-product-section .card-sec {
+  /* border: 2px solid black; */
+  /* position: relative; */
+  /* max-width: 40%; */
+  box-shadow: 0px 2px 8px 0px rgba(0, 0, 0, 0.2);
+  margin-right: 20px;
+  margin-bottom: 50px;
+}
+
+main .home-product-section .card-sec .img-sec {
+  display: flex;
+}
+
+main .home-product-section .card-sec img {
+  width: 60%;
+  margin-top: 20px;
+}
+
+main .home-product-section .card-sec .hot-offer {
+  background: #e74c3c;
+  border-radius: 20px;
+  color: #efefef;
+  position: absolute;
+  align-self: flex-start;
+  margin-top: 10px;
+  margin-right: 10px;
+  padding: 8px;
+}
+
+main .home-product-section .card-sec .img-sec .stars {
+  color: #f1c40f;
+  margin-top: 10px;
+  margin-right: 10px;
+  /* padding: 8px; */
+}
+main .home-product-section .card-sec .title-sec {
+  font-size: 0.95rem;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-shadow: 0 0 1px;
+}
+
+main .home-product-section .card-sec .btn-sec {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0;
+}
+
+main .home-product-section .card-sec .btn-sec .right {
+  font-size: 1.1rem;
+  text-shadow: 0 0 1px;
+  color: #666;
+  padding-right: 5px;
+}
+
+main .home-product-section .card-sec .btn-sec .left .extend-btn {
+  font-size: 1.055rem;
+  display: flex;
+  justify-content: space-between;
+  width: 40px;
+  color: white;
+  background-color: #2ecc71;
+  padding: 5px 15px;
+  border-radius: 25px;
+  cursor: pointer;
+  transition: 0.75s;
+}
+
+main .home-product-section .card-sec .btn-sec  .left .extend-btn:hover{
+    width: 100px;
+}
+
+main .home-product-section .card-sec .btn-sec  .left .extend-btn:hover .b-text{
+    display: block;
+}
+
+main .home-product-section .card-sec .btn-sec .left .extend-btn .b-text{
+    display: none;
+    color: white;
+}
+
+main .home-product-section .card-sec .btn-sec .left .extend-btn  .b-icon{
+    color: white;
+    padding-top: 3px;
+}

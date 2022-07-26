@@ -1,0 +1,77 @@
+@import url(./_nav.css);
+@import url(./_slider.css);
+@import url(./_product_4.css);
+@import url(./_best_offer.css);
+@import url(./_dragble-list.css);
+@import url(./_footer.css);
+@import url(./owl.carousel.min.css);
+@import url(./owl.theme.default.min.css);
+
+:root {
+  font-size: 16px;
+  font-family: Vazir;
+  --color: #ecf0f1e5;
+}
+
+@font-face {
+  font-family: "Vazir";
+  src: url("https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Round-Dots/fonts/webfonts/Vazirmatn-RD[wght].woff2")
+      format("woff2 supports variations"),
+    url("https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Round-Dots/fonts/webfonts/Vazirmatn-RD[wght].woff2")
+      format("woff2-variations");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  border-collapse: collapse;
+  line-height: 1.6;
+  /* overflow: hidden; */
+  /* line-height: 25.6px; */
+  /* overflow-x: auto; */
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  direction: rtl;
+  font-size: 1rem;
+}
+
+li,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+::selection {
+  background: #2ecc71;
+}
+
+.i_span2 {
+  font-size: 1.35rem;
+}
+
+.main-container {
+  width: 100%;
+}
+
+.container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* footer  */
+
+main {
+  background: #f7f5f5;
+}
